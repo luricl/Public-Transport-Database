@@ -1,9 +1,5 @@
 # Federal District's Public Bus Transport Database
 
-By Lurian
-
-Video overview: <https://youtu.be/omfoBl097wA>
-
 ## Scope
 
 This is a database for tracking buses' lines, stops and trips at Federal District, in Brazil. The scope of this database includes:
